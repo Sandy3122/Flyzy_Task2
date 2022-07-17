@@ -921,6 +921,35 @@ Packages Section Styles
 }
 
 
+/* Map Section In Recommended Places */
+
+/* .map{
+   margin-top:20px;
+   width:100%;
+   height:100vh;
+   display: flex;
+   justify-content: center;
+   align-items:center;
+   flex-direction: column;
+}
+
+.map iframe{
+   margin-top:40px;
+   width:80%;
+   height:600px;
+   filter:invert(100%);
+} */
+
+
+
+
+
+
+
+
+
+
+
 
 /* Responsive CSS */
 /* media queries  */
